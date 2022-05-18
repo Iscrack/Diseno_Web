@@ -1,11 +1,9 @@
-<!doctypehtml>
-<html lang="en">
-                <head>
-                <title>5 poemas de Octavio Paz<title>
-                </head>
-                 <body>
+<!DOCTYPE html>
+<head>
+                <title>5 poemas de Octavio Paz</title>
+</head>
+ <body>
                  <h1>Decir, hacer</h1>
-                 <br>
                  <p><strong>A Roman Jakobson</strong>
                      Entre lo que veo y digo,
                      Entre lo que digo y callo,
@@ -63,4 +61,4 @@
                       se cierran
                       Las palabras se abren.</em>
                      </body>
-<html>
+</html>
