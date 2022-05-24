@@ -58,8 +58,11 @@ VSCODE.DEV
   	
   <body>
 	<h1> 5 Poemas de Octavio Paz </h1>
-    <a href="https://web.whatsapp.com" target="blank"> <img src="whatsapp.jpg"  alt="whatsapp" height="40px" width="40px"> </a><br>
-    <img src="octaviopaz.jpg"  alt="OctavioPaz" height="300px" width="400px">
+    <a href="https://web.whatsapp.com" target="blank"> <img src="whatsapp.jpg" alt="whatsapp" height="40px" width="40px"></a>
+    <a href="https://www.facebook.com" target="blank"> <img src="facebook.jpg" alt="facebook" height="40px" width="40px"></a>  
+    <a href="https://www.gmail.com" target="blank"> <img src="mail.jpg" alt="correo electrónico" height="40px" width="45px"></a>
+    <a href="https://www.twitter.com" target="blank"> <img src="twitter.jpg" alt="correo electrónico" height="40px" width="40px"></a> <br>
+    <img src="octavio-paz.jpg"  alt="OctavioPaz" height="300px" width="400px">
 		
 	<p> <em> Poeta y ensayista mexicano, recibió el Premio Nobel de literatura en 1990 <br>
 	    como reconocimiento a su obra literaria. Aquí te ofrecemos 5 poemas de <br>
