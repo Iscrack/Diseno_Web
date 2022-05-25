@@ -7,16 +7,35 @@ Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
 
-2. ¿Qué es la hipermedia? (valor 1.0)
+Es un conjunto estructurado de textos, gráficos, unidos entre sí por enlaces y conexiones lógicas. con lo cual permite saltar de un punto a otro, en un mismo texto, o a otro texto a través de referencias.
 
+2. ¿Qué es la hipermedia? (valor 1.0)
+ 
+ Es un sistema de comunicación en el que se emplean dos o más medios de comunicación distintos de forma concurrente. Un sistema multimedia puede integrar texto, voz, audio, fotografías, gráficos interactivos, vídeos, realidad virtual y otros.
+ 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+
+Crear y editar con cualquier editor básico de textos.
+Es multiplataforma, o sea, puede ser visualizado por cualquier navegador de cualquier sistema operativo.
+No diferencia entre mayúsculas y minúsculas.
+Utiliza etiquetas o marcas, que consisten en breves instrucciones de comienzo y final, mediante las cuales se determina la forma en la que debe aparecer en su navegador el texto así como también las imágenes y demás elementos en la pantalla del ordenador.
+Cada elemento de un documento HTML consta de una etiqueta de comienzo, un bloque de texto y una etiqueta de fin.
+Lenguaje estático.
+Es utilizado para la creación de páginas web.
+Los documentos HTML son documentos de hipertexto que aparecen enlazando a otros documentos.
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
+sus características semánticas, las posibilidades multimedia que incorpora, las nuevas funciones para formulario y las características que se definen para poder integrarse con tecnologías (arquitectura de las aplicaciones).
+
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
+
+convertir el lenguaje en colores, pantallas, imagenes
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
 
+JavaScript. Con este lenguaje de programación multiplataforma es posible dar una mayor interactividad y dinamismo a los sitios web
+CSS. Es un lenguaje que sirve, sobre todo, para indicar la representación visual de las estructuras HTML.
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
 Objetivo: Verificar el dominio del concepto de editor de texto y su uso en el diseño de páginas web.
@@ -26,7 +45,14 @@ Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
+La capacidad de cortar, copiar y pegar texto.
+Crear una lista con viñetas.
+Ajustar el texto a la siguiente línea.
+Deshacer o rehacer el último comando. 
+
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+
+
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
