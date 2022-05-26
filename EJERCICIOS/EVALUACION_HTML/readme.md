@@ -52,13 +52,17 @@ Deshacer o rehacer el último comando.
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
 
+Visual Studio Code de Microsoft.
+Notepad ++
+Atom
 
-
-3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0?
+primero, el nombre del archivo, y segundo, una extensión de tres o cuatro caracteres que define el tipo de archivo. 
 
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
-5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+
+5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)Las hojas de estilo (style sheets) son conjuntos de instrucciones, a veces en forma de archivo anexo, que se asocian a los archivos de texto y se ocupan de los aspectos de formato y de presentación de los contenidos: tipo, fuente y tamaño de letras, alineación y posicionamiento del texto, colores y fondos, etc.
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
