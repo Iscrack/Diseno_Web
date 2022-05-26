@@ -6,13 +6,13 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
-   Es la cualidad de poder enlazar una página web sin la necesidad de salir de ella. Con esta característica pordemos generar sitios web.
+   Es la cualidad de poder colocar enlaces dentro una página web sin la necesidad de salir de ella. Con esta característica pordemos generar sitios web y presentar información de acuerdo a las necesidades del usuario.
     
 2. ¿Qué es la hipermedia? (valor 1.0)
-   Facultad de dar enlaces a imágenes o texto, introducir audio o video, proporcinar formato a las páginas para personas con capacidades diferentes      
+   Facultad de transmitir información a través de imágenes, texto audio o video.
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
-   Que se maneja por jerarquías
+   Permite dar estructura lógiac a un documento, tienen un sistema escalonado tipo archivero
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
    Etiquetas, hipertextualidad e hipermedia     
@@ -21,8 +21,8 @@ Preguntas:
    Traducir el lenguaje en videos, imágenes, colores, etc.     
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
-   HTML. Nos permite estructurar una página para darle contenido, hipertextualidad, hipermedia
-   CSS. Esta tecnología nos permite dar formato y diseño a las páginas.
+   HTML. Nos permite estructurar un "archivo esqueleto" de la página o sitio web, brinda hipertextualidad e hipermedia.
+   CSS. Esta tecnología nos permite dar formato y diseño visual a las páginas.
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -36,12 +36,12 @@ Preguntas:
    2. Señala errores de sintaxis
    3. Proporciona ayudas visuales para identificar etiquetas y sus atributos
    4. Permite trabajar de forma simultánea el código con el navegador
-   5. Copiar y pegar
+   5. Copiar y pegar texto
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
 A. Visual studio
 B. Atom
-C. Block de notas
+C. Bloc de notas
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 "archivo".html
@@ -52,8 +52,7 @@ C. Block de notas
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
 .jpg / .png. / .gif
 
-6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
-a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo referente a los estilos (CSS), etc. (valor 1.0)
+6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo referente a los estilos (CSS), etc. (valor 1.0)
         a) Cierto
 
 
@@ -64,11 +63,11 @@ Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el 
 Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
-Elemento: Permite definir la estructura de un documento
-Etiqueta: Permite definir los elementos en el código
+Elemento: Permite definir la estructura y forma a un documento html
+Etiqueta: Permite definir los elementos en el código, muchos cuentan con apertura y cierre y atributos
    
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene información sobre el contenido de la etiqueta.
+        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta.
  
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del material en el que se encuentra (como una barra lateral)? (valor 0.3)
         d) aside
@@ -141,10 +140,10 @@ Preguntas:
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
-          c) input type="textfield"
+          d) input type="text"
 
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
-          c) input type="dropdown"
+          b) input type="list"
  
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
           b) input type="textarea"
@@ -159,7 +158,7 @@ Preguntas:
         b) Falso
 
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
-        a) Verdadero
+        b) Falso
         
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
         a) title
