@@ -236,6 +236,7 @@ secciones que se muestran en la imagen de arriba.
                         <label><input type="radio" name="opcion">Opción1</label><br>
                         <label><input type="radio" name="opcion">Opción2</label><br>
                         <label><input type="radio" name="opcion">Opción3</label><br>
+                        <input type="submit">
                      </form>        
                  </aside>
              </main>
