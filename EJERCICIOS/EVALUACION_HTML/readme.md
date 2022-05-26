@@ -90,6 +90,9 @@ The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
  ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+   
+ ![image](https://user-images.githubusercontent.com/99224635/170548334-aeb4430d-8b3f-448a-8519-d38dd425ec0a.png)
+  
     
 ## 4. LENGUAJE HTML
 
@@ -178,7 +181,9 @@ Preguntas:
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
 ![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
-
+   
+![image](https://user-images.githubusercontent.com/99224635/170548822-59cee453-f6d3-4e8f-a8a0-48507870d42a.png)
+   
   Debes tener en cuenta los siguientes requisitos:
   
 ● Este ejercicio lo deberás realizar con las etiquetas de HTML5, haciendo uso de los
