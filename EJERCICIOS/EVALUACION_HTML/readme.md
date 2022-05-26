@@ -190,3 +190,53 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+   
+            <!DOCTYPE html>
+         <html lang="en">
+         <head>
+             <meta charset="UTF-8">
+             <meta http-equiv="X-UA-Compatible" content="IE=edge">
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+             <title>Evaluación HTML</title>
+         </head>
+         <body>
+             <header>
+                 <h1>ENCABEZADO NIVEL 1</h1>
+                 <nav>
+                    <ul>
+                        <li><a href="">ENLACE1</a></li>
+                        <li><a href="">ENLACE2</a></li>
+                        <li><a href="">ENLACE3</a></li>
+                        <li><a href="">ENLACE4</a></li>
+                    </ul>
+                 </nav>
+             </header>
+
+             <main>
+                 <section>
+                     <h2>
+                         Encabezado nivel 2
+                     </h2>
+                     <p>Aquí va el texto del primer párrafo</p>
+                     <p>Aquí va el texto del segundo párrafo</p>
+                 </section>    
+                 <aside>                   
+                     <h2>
+                         Apartado
+                     </h2>
+                     <p>
+                         Elije una opción
+                     </p>
+                     <form>
+                        <label><input type="radio" name="opcion">Opción1</label><br>
+                        <label><input type="radio" name="opcion">Opción2</label><br>
+                        <label><input type="radio" name="opcion">Opción3</label><br>
+                     </form>        
+                 </aside>
+             </main>
+
+             <footer>
+                 <p>Sección de información de contacto, derechos de autor, etc.</p>
+             </footer>
+         </body>
+         </html>
