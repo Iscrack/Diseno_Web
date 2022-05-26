@@ -57,20 +57,25 @@ Notepad ++
 Atom
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0?
+
 primero, el nombre del archivo, y segundo, una extensión de tres o cuatro caracteres que define el tipo de archivo. 
 
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
+
 Las hojas de estilo (style sheets) son conjuntos de instrucciones, a veces en forma de archivo anexo, que se asocian a los archivos de texto y se ocupan de los aspectos de formato y de presentación de los contenidos: tipo, fuente y tamaño de letras, alineación y posicionamiento del texto, colores y fondos, etc.
 
-5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)Las hojas de estilo (style sheets) son conjuntos de instrucciones, a veces en forma de archivo anexo, que se asocian a los archivos de texto y se ocupan de los aspectos de formato y de presentación de los contenidos: tipo, fuente y tamaño de letras, alineación y posicionamiento del texto, colores y fondos, etc.
+5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+
+PNGs 
+GIFs 
+JPEGs
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
-        a) Cierto
-        b) Falso
+ Falso
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
@@ -80,7 +85,14 @@ Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
 
+el texto en una página web está «marcado» con estos códigos para dar instrucciones al navegador web sobre cómo mostrar el texto.
+los elementos HTML son los componentes básicos de una página web. Una etiqueta contiene mucha información. Le indica al navegador dónde empieza y dónde termina cada elemento
+
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
+
+Se refiere al significado o información extra que otorgan los elementos o etiquetas del lenguaje, información que define o describe el contenido, función o sección que contienen.
+Esta información es lo que permite que un documento se pueda rastrear de mejor manera.
+
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
@@ -94,19 +106,23 @@ etiqueta
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-        a) header
-        b) footer
-        c) nav
-        d) aside
+aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
         a) mark
         b) article
-        c) time
+        c) time NO clasifica como marcado semántico
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+
+<header> – Este elemento se utiliza para agrupar las piezas de introducción del contenido.
+ <nav> – Este elemento es para agrupar elementos de navegación del sitio, muy importante utilizarlo en el menú principal.
+  <main> –  Utilizado para indicar el contenido más importante de la página,utilizarlo para agrupar justo el contenido deseado y no agrupar aquí elementos que estén fuera del tema principal de la página como, anuncios y las barras laterales.
+   <article>– La definición de este elemento indica que se debe utilizar para agrupar contenido que por sí solo tiene razón de ser y significado.
+    <section> – Este elemento tiene un valor semántico más general y es utilizada para agrupar secciones o subsecciones de contenido.
+     <aside> Dentro de este elemento va el contenido que está fuera del tema principal del tema principal de la página.
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
@@ -121,7 +137,7 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
- ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
     
 ## 4. LENGUAJE HTML
 
