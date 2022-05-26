@@ -312,6 +312,59 @@ c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
 ![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
+         
+         <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>EVALUACIONHTML</title>
+            </head>
+            <body>
+                <header>
+                    <h1>ENCABEZADO NIVEL 1</h1>
+                    <nav> 
+                        <ul>
+                            <li><A href="#">ENLACE1</A></li>
+                            <li><A href="#">ENLACE2</A></li>
+                            <li><A href="#">ENLACE3</A></li>
+                            <li><A href="#">ENLACE4</A></li>
+
+
+
+
+
+
+
+                        </UL>
+                    </nav>
+                    <main>
+                        <section> 
+                            <H2> ENCABEZADO NIVEL 2</H2>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam maxime et minus esse vero aliquam voluptatibus suscipit, porro illo saepe tempora eaque, nulla deleniti cumque iste exercitationem enim pariatur?
+                            <P>aqui va el texto del primer parrafo</P>
+                            <p>aqui va el texto del segundo parrafo</p>
+
+                    </section>
+                    <aside>
+                        <h3>apartado</h3>
+                        <form>
+                            elige una opcion: <br>
+                            <input type="checkbox" id="opcion 1" name="opcion1">opcion 1 <br>
+                            <input type="checkbox" id="opcion 2" name="opcion1">opcion 2 <br>
+                            <input type="checkbox" id="opcion 3" name="opcion1">opcion 3 <br>
+                            <input type="submit" name="enviar">
+                        </form>
+
+                    </aside>
+                    </main>
+         </header>
+               <Footer>
+                   <h4>seccion de informacion de contacto,derechos de autor,etc</h4>
+              </Footer>
+             </body>
+            </html>
 
   Debes tener en cuenta los siguientes requisitos:
   
