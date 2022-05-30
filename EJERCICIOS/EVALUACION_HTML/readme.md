@@ -96,24 +96,17 @@ Esta información es lo que permite que un documento se pueda rastrear de mejor 
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
-        información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
-  
-3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
+       
+  3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-aside
+b aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
-        c) time NO clasifica como marcado semántico
-        d) span
+       
+c) time NO clasifica como marcado semántico
+        
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
 
@@ -127,11 +120,10 @@ aside
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
-           
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+     1. <img src="birthday.jpg"> falta el atributo para localizar la imgen
+    2. <i>Congratulations!</i> no cierra el elemnto con la barra /
+    3. <a href="file.html">Enlace de texto</a> solo basta con cerrar la etiqueda a con </a>
+    4. <p>Esto es un párrafo</p> la barra esta alrevez / 
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
