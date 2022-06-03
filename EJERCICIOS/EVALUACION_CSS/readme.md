@@ -169,12 +169,106 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
 
           INGRESA AQUI EL CÓDIGO HTML
-          
+                              <!DOCTYPE html>
+                    <html lang="en">
+                    <head>
+                        <meta charset="UTF-8">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <title>EVALUACIÓN</title>
+                    <link rel="stylesheet" href="css/style.css">
+                    </head>
+                    <body>
+                        <header>
+                            <div class="logo"> <img src="img/logo.jpg" alt="Ciudad de Mexico"> </div>
+                                    <hr>
+                                <div class="menu">
+                                    <ul>
+                                        <li>Residentes</li>
+                                        <li>Negocios</li>
+                                        <li>Visitantes</li>
+                                        <li>Gobierno</li>
+                                    </ul>
+                                </div> 
+                        </header>
+
+                        <main>
+                            <nav class="principal"> </nav>
+                            </main>
+
+                        <footer>
+                            <div class="quien"> <p>¿Qién se puede inscribir?</p></div> <br>
+                            <div class="mensaje"><p> Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana <br>
+                                "Menores de edad deben de entrar a las instalaciones junto con un adulto"</p>
+                            </div>
+                        </footer>
+                    </body>
+                    </html>
           
           
           
           INGRESA AQUI EL CSS
-          
+                              *{
+                        margin: 0;
+                        padding: 0;
+                    }
+
+                    header{
+                        height: 25vh;
+                        width: 200%;
+                    }
+
+                    .logo{
+                        height: 18vh;
+                        width: 10%;
+                    }
+
+
+                    .menu{
+                        display: flex;
+                        justify-content: space-between;
+                    }
+
+                    .menu ul{
+                        display: flex;
+                        list-style: none;
+                    }
+
+                    .menu li{
+                        display: flex;
+                        margin-left: 100%;
+                        color: green;
+                        font-size: 25px;
+                        padding-top: 8%;
+                    }
+
+                    .principal{
+                        background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+                        height: 80vh;
+                        width: 100%;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: cover;
+                    }
+
+                    .texto{
+                        background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero-vector.svg);
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: cover;
+                    }
+
+                    .quien p{
+                        font-size: 35px;
+                        text-align: center;
+                        color: orangered;
+                    }
+
+                    .mensaje p{
+                        text-align: center;
+                        color: gray;
+                        font-size: 25px;
+                    }
           
           
  Ingresa el link a tu página del proyecto final
