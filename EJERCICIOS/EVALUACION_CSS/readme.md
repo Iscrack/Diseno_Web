@@ -77,8 +77,6 @@ una hoja de estilo externa? (valor 0.25)
   
 14. ¿Qué propiedad se utiliza para cambiar la fuente de un elemento? (valor 0.25)
   
-          a) font-weight
-          b) font-family
           c) font-style
  
  
