@@ -165,6 +165,9 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
 
 
+![image](https://user-images.githubusercontent.com/99224635/171918078-a1d54bc0-4824-4b60-ac8a-da3215588b9a.png)
+
+
           INGRESA AQUI EL CÓDIGO HTML
           
           
